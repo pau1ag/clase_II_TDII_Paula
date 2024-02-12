@@ -1,3 +1,11 @@
 Hola Mundo
 
 Esta es otra modificación para un nuevo commit
+
+Pasos para hacer un commit:
+1.  Realizar gi config
+2.  Crear una carpeta, en esta un archivo txt
+3.  Modificar el txt, y guardar
+4.  git add . en consola y en el repositorio creado
+5.  git commit -m "Mensaje"
+6.  git push
